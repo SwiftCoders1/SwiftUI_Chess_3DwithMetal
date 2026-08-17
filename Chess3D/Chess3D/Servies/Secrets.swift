@@ -8,6 +8,6 @@
 import Foundation
 
 enum Secrets {
-    static let supabaseURL = URL(string: "https://nbyozdwznkeyeaznypmm.supabase.co")
-    static let supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5ieW96ZHd6bmtleWVhem55cG1tIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYwOTY5NDAsImV4cCI6MjEwMTY3Mjk0MH0.uQewHWNFLcmsRqt2xPyoLpDBUJ1dlCpAopebHMTRVwA"
+    static let supabaseURL = URL(string: "Add your string address")
+    static let supabaseAnonKey = "Add your AnonKey"
 }
